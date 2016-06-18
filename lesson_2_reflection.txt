@@ -14,3 +14,6 @@ when we are making an apps which required locale based changes,then we must use 
 
 How do the diagrams help you visualize the branch structure?
 The diagrams show how each branch interact to other branch, and how we can use to traverse from one branch to another branch and how to commit.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+merging two branches is good for accessing other branches which i never used without merging.
