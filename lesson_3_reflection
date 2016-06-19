@@ -13,3 +13,6 @@ branches  within a given project, allow for different paths of commits.
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 without internet access we can get the most update remote branch with git fetch without  merging into the branch
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+using google derives, dropbox and some other file hosting sites or sending emails, copying files
